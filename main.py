@@ -15,7 +15,7 @@ def pause():
     PAUSE_PROGRAM = not PAUSE_PROGRAM
 
 
-ahk = AHK(executable_path=r'C:\Program Files\AutoHotkey\AutoHotkey.exe')
+ahk = AHK(executable_path=r'<YOUR PATH HERE>')
 cnvs = Canvas(ahk, 32, 32)
 
 ahk.add_hotkey('^x', callback=ex) # stop
