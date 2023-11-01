@@ -24,5 +24,5 @@ ahk.block_forever()
 Use `ctrl` + `x` to print the current location of your cursor
 
 **Running**
-1. If you don't hvae the image saved in `image.png` already, pass in the `url='<your url>'` parameter into line 18 of `main.py` to specify an image URL
+1. If you don't have the image saved in `image.png` already, pass in the `url='<your url>'` parameter into line 18 of `main.py` to specify an image URL
 2. Click run. The program will alert you with an estimated time (which should be slightly higher than actual time) and it will automatically focus your Roblox screen after you click OK
